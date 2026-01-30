@@ -128,7 +128,7 @@ BTB先了解常见结构，有类似综述的文章
     
 3.  sch（调度方法）
     
-4.  checkpoint（如果做高性能checkpoint）
+4.  checkpoint（如何做高性能checkpoint）
     
 5.  regfile（一般研究如何降低功耗和面积，优化PPA）
     
