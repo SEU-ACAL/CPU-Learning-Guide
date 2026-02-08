@@ -50,7 +50,7 @@
 
 # 进阶部分
 
-首先推荐自己的知识库（整理了近20年四大顶会的文章，预取可能少一些）：
+首先推荐自己的知识库（整理了近20年四大顶会的CPU文章，预取可能少一些）：
 
 [https://ima.qq.com/wiki/shareId=a5e052ac7d7c54128f3ab682bd2482d825973edf98186645533867142ecaf092](https://ima.qq.com/wiki/?shareId=a5e052ac7d7c54128f3ab682bd2482d825973edf98186645533867142ecaf092)
 
